@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abhi-markan
-- 👀 I’m interested in DevOps, PHP, CSS, LESS, JS, HTML5, Apache and Linux
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in DevOps, PHP, CSS, LESS, JS, HTML5, Apache, Nginx, Node and Linux
+- 🌱 I’m currently learning Node.js + NJK
 - 📫 How to reach me [at]abhimarkan
